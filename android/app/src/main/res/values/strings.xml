@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">acropolis</string>
+    <string name="facebook_app_id">634347961016405</string>
+    <string name="fb_login_protocol_scheme">fb634347961016405</string>
+    <string name="facebook_client_token">d3af18430ccdd8211fdd6462deceb1f40</string>
+</resources>
